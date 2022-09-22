@@ -1,5 +1,7 @@
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+
+
 <h1 align="center">Hi 👋, I'm Anjana Kushwaha</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <div id="badges">
