@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<a href="./images/Anjana Kushwaha_Resume.pdf" download="Anjana Kushwaha Resume" ><button style="padding:8px; background-Color:skyblue; color:white; border-radius:5px; margin-Left:50%">Download Resume</button></a>
 
 
+### :woman_technologist: About Me:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanak05&show_icons=true&locale=en&layout=compact" alt="anjanak05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanak05&" alt="anjanak05" /></p>
