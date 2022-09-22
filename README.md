@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm Anjana Kushwaha</h2>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
-<div id="badges" style="margin-Left:25%">
+<div align="center" id="badges" style="margin-Left:25%">
   <a href="https://www.linkedin.com/in/anjana-kushwaha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
