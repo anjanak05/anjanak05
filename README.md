@@ -22,19 +22,20 @@
 An ambitious and self-motivated full stack web developer with a considerable technical skills,  designed and developed web apps using HTML, CSS, JavaScript, React, and Redux. A quick learner who can absorb new ideas and can communicate clearly and effectively.
 
 ### :hammer_and_wrench: Languages and Tools :
- **FRONT END TECHNOLOGIES**
+
+ **Front End Technologies**
 - HTML / CSS
 - React & Redux
 - Chakra UI & Material UI
 - Bootstrap
 
- **BACK END TECHNOLOGIES**
+ **Back End Technologies**
 - Javascript
 - Node Js
 - Express Js
 - MongoDB
 
-**OTHERS**
+**Others**
 - Github
 - HTTP & REST
 - XML
