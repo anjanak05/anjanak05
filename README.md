@@ -18,7 +18,8 @@
 </div>
 
 
-### :woman_technologist: About Me:
+### :woman_technologist: About Me: Solutions-focused Front-End Developer, skilled in designing and developing web apps using HTML, CSS, JavaScript, React, and Redux.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanak05&show_icons=true&locale=en&layout=compact" alt="anjanak05" /></p>
 
+### :Languages and Tools::
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanak05&" alt="anjanak05" /></p>
