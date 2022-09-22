@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
 <h1 align="center">Hi 👋, I'm Anjana Kushwaha</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <div id="badges">
