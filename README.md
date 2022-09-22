@@ -1,6 +1,6 @@
 
 
-<div style="width:50%;height:250px; margin-Left:30% ;padding-bottom:6%;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="250px" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<div style="width:50%;height:250px; margin-Left:60% ;padding-bottom:6%;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="250px" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
 
 <h2 align="center">Hi 👋, I'm Anjana Kushwaha</h2>
