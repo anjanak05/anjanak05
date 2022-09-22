@@ -21,7 +21,25 @@
 ### :woman_technologist: About Me: 
 An ambitious and self-motivated full stack web developer with a considerable technical skills,  designed and developed web apps using HTML, CSS, JavaScript, React, and Redux. A quick learner who can absorb new ideas and can communicate clearly and effectively.
 
-### :Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
+ **FRONT END TECHNOLOGIES**
+- HTML / CSS
+- React & Redux
+- Chakra UI & Material UI
+- Bootstrap
+
+ **BACK END TECHNOLOGIES**
+- Javascript
+- Node Js
+- Express Js
+- MongoDB
+
+**OTHERS**
+- Github
+- HTTP & REST
+- XML
+- JSON
+ 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanak05&show_icons=true&locale=en&layout=compact" alt="anjanak05" /></p>
 
